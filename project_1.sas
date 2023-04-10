@@ -1,3 +1,5 @@
+/*The code below goes with the basketball csv dataset in the datasets rep*/
+
 /*Importing the CSV file into SAS - I struggled doing it the other way*/
 /*proc import datafile="C:\Users\kmand\Documents\ASU\LastSemester\STP315\Project_1\basketball.csv"*/
 /*	out=work.basketball*/
